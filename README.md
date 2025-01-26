@@ -3,6 +3,12 @@
 Welcome to the **Full Stack Realtime Chat App**! This application is designed for seamless real-time communication with modern features and a clean, responsive UI.
 
 ---
+For More Info Check:
+ [](readme/FolderStructure.md)
+ [](readme/SecquenceDiagram.md)
+ [](readme/DatabaseDesign.md)
+ [](readme/ScreenShots.md)
+
 
 ## Features
 
